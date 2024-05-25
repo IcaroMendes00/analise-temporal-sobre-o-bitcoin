@@ -1,7 +1,7 @@
 # Analise-do-bitcoin-com-Python
 Código desenvolvido com o objetivo de me ajudar a entender o comportamento e variações do bitcoin de acordo com o tempo, principalmente o ganho médio mês a mês e o ganho total no período selecionado.
 
-Gráficos BTC - v1.0 19/04/2024 (Bloco:839927)
+Gráficos BTC - v1.0 19/04/2024 E.V. (Bloco:839927)
 Arquivo com funções geradoras de gráficos do valor do bitcoin em relação ao Dólar (Dólar é mais estável que Real)
 Autor: Icaro Mendes
 Referências: https://github.com/hugoplm/bitcoin-candlestick/tree/main
