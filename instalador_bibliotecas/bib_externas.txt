@@ -1,0 +1,8 @@
+ipywidgets
+matplotlib
+numpy
+pandas
+plotly
+seaborn
+tk
+yfinance
