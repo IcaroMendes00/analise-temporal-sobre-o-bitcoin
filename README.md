@@ -6,7 +6,7 @@ Arquivo com funções geradoras de gráficos do valor do bitcoin em relação ao
 Autor: Icaro Mendes
 Referências: https://github.com/hugoplm/bitcoin-candlestick/tree/main
 
-#ATENÇÃO 
+# ATENÇÃO 
 
 Antes de rodar qualquer função garanta que possui as bibliotecas necessárias. 
 O arquivo bib_externas.txt te ajuda fazer isso. Para instalar as bibliotecas necessárias:
@@ -18,7 +18,7 @@ O arquivo bib_externas.txt te ajuda fazer isso. Para instalar as bibliotecas nec
 2 - HODL!
 
 
-#FUNÇÕES
+# FUNÇÕES
         
 plotar_grafico_separado_halving() - OK!
         
@@ -41,7 +41,7 @@ calcular_ganhos_percentuais_halving(halving) - por enquanto tratei apenas dos pe
             com a data atual a partir do quarto halving
     
     
-#Melhorias futuras: 
+# Melhorias futuras: 
 
 1 - o yahoo finance só possui dados a partir de 01/01/2014, como inserir as informações anteriores no grafico? ou acessar um banco de dados melhor?
 
