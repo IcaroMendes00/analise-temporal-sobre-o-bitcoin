@@ -2,13 +2,12 @@
 Código desenvolvido com o objetivo de me ajudar a entender o comportamento e variações do bitcoin de acordo com o tempo, principalmente o ganho médio mês a mês e o ganho total no período selecionado.
 
 Gráficos BTC - v1.0 19/04/2024 E.V. (Bloco:839927)
-Arquivo com funções geradoras de gráficos do valor do bitcoin em relação ao Dólar (Dólar é mais estável que Real)
-Autor: Icaro Mendes
+Arquivo com funções geradoras de gráficos do valor do bitcoin em relação ao Dólar.
 Referências: https://github.com/hugoplm/bitcoin-candlestick/tree/main
 
 # ATENÇÃO 
 
-Antes de rodar qualquer função garanta que possui as bibliotecas necessárias. 
+Antes de rodar qualquer função garanta que você possui as bibliotecas necessárias na sua máquina. 
 O arquivo bib_externas.txt te ajuda fazer isso. Para instalar as bibliotecas necessárias:
 
 0 - Copie e cole o comando: 'pip install --upgrade pip setuptools' no seu terminal na pasta do projeto e pressione Enter
