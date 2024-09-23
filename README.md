@@ -34,7 +34,7 @@ plotar_grafico_candlestick_det_mes() - OK!
         
  plotar_grafico_candlestick_det_dia() - OK!
         
-calcular_ganhos_percentuais_halving(halving) - por enquanto tratei apenas dos perios a partir do segundo e terceiro halving, pois
+calcular_ganhos_percentuais_halving(halving) - por enquanto tratei apenas dos periodos a partir do segundo e terceiro halving, pois
             existem alguns problemas que ainda não tratei, o primeiro problema: o periodo inicial do bitcoin, não achei nenhum banco de dados 
             para isso, ou não procurei o suficiente? esse periodo em questão é 03/2009 até 31/12/2013. portanto analises sobre o periodo do 
             inicio até o 1° halving e do primeiro halving até o segundo halving e o segundo problema: tatar os intervalos de tem de acordo 
